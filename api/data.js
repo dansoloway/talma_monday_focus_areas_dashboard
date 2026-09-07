@@ -12,6 +12,7 @@ const BOARDS = [
   { id: 5094585976, name: 'Finance' },
   { id: 5100890169, name: 'Projects' },
   { id: 5100889995, name: 'Marketing' },
+  { id: 5102164086, name: 'Management' },
 ];
 
 function api(query) {
